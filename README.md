@@ -181,6 +181,6 @@ Now go to "Help Topics" and add the following help topics:
   
 The next tutorial we will explore tickets and the ticket lifecycle (link to that is listed below)
   
-- [osTicket: Ticket Lifecycle Examples](https://github.com/jacksonmalms/ticket-lifecycle)
+- [osTicket: Ticket Lifecycle Examples](https://github.com/aniyahelder/ticket-lifecycle.git)
 </p>
 <br />
