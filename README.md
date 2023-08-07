@@ -61,7 +61,7 @@ Then go to Agents -> Roles -> Add New Role
 <br />
 
 <p>
-<img src="https://i.imgur.com/dKzlDpy.png"/>
+<img src="https://i.imgur.com/jZfC0CY.png"/>
 </p>
 <p>
 Now name the new role "Supreme Admin" and select all permissions for Tickets, Tasks, and Knowledgebase, then click save.
