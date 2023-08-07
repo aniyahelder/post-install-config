@@ -109,7 +109,7 @@ Now go into the agents panel and add new agent.
 <br />
 
 <p>
-<img src="https://i.imgur.com/VbdAyYo.png"/>
+<img src="https://i.imgur.com/eEvb3zw.png"/>
 <img src="https://i.imgur.com/bOpYXec.png"/>
 </p>
 <p>
