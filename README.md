@@ -101,7 +101,7 @@ Now go to Settings -> Users -> * Settings and make sure the authentication setti
 <br />
 
 <p>
-<img src="https://i.imgur.com/zgW8RYK.png"/>
+<img src="https://i.imgur.com/lRTYPvo.png"/>
 </p>
 <p>
 Now go into the agents panel and add new agent.
