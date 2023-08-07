@@ -157,7 +157,7 @@ Then go to Admin Panel -> Manage -> SLA -> Add New SLA Plan
 <br />
 
 <p>
-<img src="https://i.imgur.com/AFDwYsq.png"/>
+<img src="https://i.imgur.com/xLIHW0m.png"/>
 </p>
 <p>
 Now add the following SLAs
