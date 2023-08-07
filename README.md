@@ -135,7 +135,7 @@ Then go to Agent panel -> Users -> Add User
 <br />
 
 <p>
-<img src="https://i.imgur.com/6uBqz01.png"/>
+<img src="https://i.imgur.com/XeW3PPa.png"/>
 </p>
 <p>
 Then add the following users:
