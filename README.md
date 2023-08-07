@@ -149,7 +149,7 @@ Then add the following users:
 <br />
 
 <p>
-<img src="https://i.imgur.com/mdD3pzb.png"/>
+<img src="https://i.imgur.com/HOFLPEu.png"/>
 </p>
 <p>
 Then go to Admin Panel -> Manage -> SLA -> Add New SLA Plan
