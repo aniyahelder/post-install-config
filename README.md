@@ -93,7 +93,7 @@ Now go to the Teams panel and hit add new team, then name it "Level II Support" 
 <br />
 
 <p>
-<img src=" "/>
+<img src="https://i.imgur.com/mc6qRHn.png"/>
 </p>
 <p>
 Now go to Settings -> Users -> * Settings and make sure the authentication settings make the screenshot above.
