@@ -110,7 +110,7 @@ Now go into the agents panel and add new agent.
 
 <p>
 <img src="https://i.imgur.com/eEvb3zw.png"/>
-<img src="https://i.imgur.com/bOpYXec.png"/>
+<img src="https://i.imgur.com/KSaLX4c.png"/>
 </p>
 <p>
 Now add the following accounts:
