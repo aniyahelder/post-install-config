@@ -169,7 +169,7 @@ Now add the following SLAs
 <br />
 
 <p>
-<img src="https://i.imgur.com/YL0FxCx.png"/>
+<img src="https://i.imgur.com/4QMeeiM.png"/>
 </p>
 <p>
 Now go to "Help Topics" and add the following help topics:
