@@ -53,7 +53,7 @@ Then go to the admin panel, that button will switch from "Admin Panel" to "Agent
 <br />
 
 <p>
-<img src="https://i.imgur.com/B6eLqcE.png"/>
+<img src="https://i.imgur.com/CnwhIhO.png"/>
 </p>
 <p>
 Then go to Agents -> Roles -> Add New Role
