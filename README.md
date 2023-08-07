@@ -37,7 +37,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Configuration Visual Walkthrough</h2>
 
 <p>
-<img src="https://i.imgur.com/970aBAE.jpg"/>
+<img src="https://i.imgur.com/fYi42rM.png"/>
 </p>
 <p>
 First log into osTicket with the credentials that we set for the admin user in the previous tutorial.
