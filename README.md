@@ -127,7 +127,7 @@ Then repeat those same exact steps for John Doe.
 <br />
 
 <p>
-<img src="https://i.imgur.com/OOQdVmW.png"/>
+<img src="https://i.imgur.com/KSaLX4c.png"/>
 </p>
 <p>
 Then go to Agent panel -> Users -> Add User
