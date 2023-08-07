@@ -45,7 +45,7 @@ First log into osTicket with the credentials that we set for the admin user in t
 <br />
 
 <p>
-<img src="https://i.imgur.com/smoRDS8.png"/>
+<img src="https://i.imgur.com/MrUxsIq.png"/>
 </p>
 <p>
 Then go to the admin panel, that button will switch from "Admin Panel" to "Agent Panel" when you get to the admin panel.
