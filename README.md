@@ -85,7 +85,7 @@ Name it "SysAdmins" and hit create.
 <br />
 
 <p>
-<img src="https://i.imgur.com/px2oFmM.png"/>
+<img src="https://i.imgur.com/NJj8ZoL.png"/>
 </p>
 <p>
 Now go to the Teams panel and hit add new team, then name it "Level II Support" and create team.
